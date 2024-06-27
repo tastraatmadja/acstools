@@ -5,7 +5,7 @@ ACSTOOLS
 ########
 
 Software tools for
-`Advanced Camera for Surveys (ACS) <http://www.stsci.edu/hst/acs/>`_.
+`Advanced Camera for Surveys (ACS) <https://www.stsci.edu/hst/acs/>`_.
 
 Different ways to install the latest release of this package::
 
@@ -42,6 +42,7 @@ To install the development version of this package::
    satdet
    findsat_mrt
    polarization_tools
+   focus_diverse_epsfs
    utils_calib
 
 ******************
@@ -51,3 +52,10 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+******************
+Citation
+******************
+
+* Please cite `acstools <https://ui.adsabs.harvard.edu/abs/2020ascl.soft11024L/abstract>`_ if you have used it in your work. 
+
